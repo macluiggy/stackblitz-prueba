@@ -5,6 +5,6 @@ import './style.css';
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
-const saluda = () => 'hola holy fuck'
+const saluda = () => 'hola holy fuckkkkkk'
 
 console.log(saluda())
